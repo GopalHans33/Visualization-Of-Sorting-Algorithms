@@ -1,0 +1,22 @@
+﻿  Source.cpp
+D:\coding\mini project\Sorting Algorithms\Source.cpp(32,61): warning C4244: 'argument': conversion from 'const _Ty' to 'T', possible loss of data
+D:\coding\mini project\Sorting Algorithms\Source.cpp(32,61): warning C4244:         with
+D:\coding\mini project\Sorting Algorithms\Source.cpp(32,61): warning C4244:         [
+D:\coding\mini project\Sorting Algorithms\Source.cpp(32,61): warning C4244:             _Ty=int
+D:\coding\mini project\Sorting Algorithms\Source.cpp(32,61): warning C4244:         ]
+D:\coding\mini project\Sorting Algorithms\Source.cpp(32,61): warning C4244:         and
+D:\coding\mini project\Sorting Algorithms\Source.cpp(32,61): warning C4244:         [
+D:\coding\mini project\Sorting Algorithms\Source.cpp(32,61): warning C4244:             T=float
+D:\coding\mini project\Sorting Algorithms\Source.cpp(32,61): warning C4244:         ]
+D:\coding\mini project\Sorting Algorithms\Source.cpp(33,70): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+D:\coding\mini project\Sorting Algorithms\Source.cpp(33,70): warning C4244:         with
+D:\coding\mini project\Sorting Algorithms\Source.cpp(33,70): warning C4244:         [
+D:\coding\mini project\Sorting Algorithms\Source.cpp(33,70): warning C4244:             _Ty=int
+D:\coding\mini project\Sorting Algorithms\Source.cpp(33,70): warning C4244:         ]
+D:\coding\mini project\Sorting Algorithms\Source.cpp(33,27): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\coding\mini project\Sorting Algorithms\Source.cpp(118,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\coding\mini project\Sorting Algorithms\Source.cpp(132,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\coding\mini project\Sorting Algorithms\Source.cpp(151,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\coding\mini project\Sorting Algorithms\Source.cpp(208,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\coding\mini project\Sorting Algorithms\Source.cpp(211,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Sorting Algorithms.vcxproj -> D:\coding\mini project\Sorting Algorithms\x64\Debug\Sorting Algorithms.exe
