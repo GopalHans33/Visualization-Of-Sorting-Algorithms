@@ -1,4 +1,4 @@
-# Sorting Visualization
+# Sorting Algorithm Visualizer
 
 This project is a sorting algorithm visualizer built using SFML (Simple and Fast Multimedia Library). It allows you to generate a random array and visualize the sorting process using various sorting algorithms.
 
